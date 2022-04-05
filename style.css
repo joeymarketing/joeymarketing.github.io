@@ -1,0 +1,15 @@
+body{
+  font-family:arial;
+  margin:0px;
+}
+
+.card{
+  border:none;
+  text-align:center;
+  font-style:italic;
+  
+}
+
+.row{
+  margin-left: 0px;margin-right: 0px;
+}
